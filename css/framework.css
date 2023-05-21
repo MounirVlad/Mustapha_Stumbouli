@@ -1,0 +1,112 @@
+/*display-flex*/
+.d-flex {
+    display: flex;
+}
+
+.center-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*align-items-flex*/
+.align-center {
+    align-items: center;
+}
+
+
+/*padding-10*/
+.p-10 {
+    padding: 10px;
+}
+
+/*padding-20*/
+.p-20 {
+    padding: 20px;
+}
+
+/*margin*/
+.m-20 {
+    margin: 20px;
+}
+
+.m-60 {
+    margin: 60px;
+}
+
+/*margin-top*/
+.mt-0 {
+    margin-top: 0px;
+}
+
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+/*background-color*/
+.bg-white {
+    background-color: white;
+}
+
+/*color-balck*/
+.c-black {
+    color: black;
+}
+
+.c-grey {
+    color: grey;
+}
+
+/*position relative*/
+.p-relative {
+    position: relative;
+}
+
+/*text-center*/
+.txt-center {
+    text-align: center;
+}
+
+/*font-size*/
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.ffP {
+    font-family: 'Poppins', sans-serif;
+}
+
+.ffOS {
+    font-family: "Open Sans", sans-serif;
+}
+
+/*border*/
+.rad-6 {
+    border-radius: 6px;
+}
+
+.rad-10 {
+    border-radius: 10px;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.between-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
